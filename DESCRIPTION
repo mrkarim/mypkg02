@@ -1,0 +1,10 @@
+Package: mypkg02
+Type: Package
+Title: Calculate Sum using R and C
+Version: 1.0
+Date: 2015-06-06
+Author: M. R. Karim <mrezakarim@yahoo.com>
+Maintainer: M. R. Karim <mrezakarim@yahoo.com>
+Description: Calculate summation of  numeric vector by R and C
+Depends: Rcpp
+License: GPL2
